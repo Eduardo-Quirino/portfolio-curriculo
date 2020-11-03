@@ -41,11 +41,11 @@
  }
  
  body {
-     background-color: #e5e5e5;
+     background-color: #d4cbcb;
  }
  
  header {
-     background-color: white;
+     background-color: rgba(63, 58, 102, 0.582);
      padding: 32px 64px;
  }
  
@@ -200,7 +200,7 @@
  }
  
  footer {
-     background-color: #6b665477;
+     background-color: rgba(63, 58, 102, 0.582);
      padding: 30px;
      text-align: center;
      font-family: 'Open Sans', sans-serif;
