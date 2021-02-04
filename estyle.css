@@ -14,16 +14,19 @@
  
  h1 span {
      font-weight: bold;
+     
  }
  
  h1 {
      font-family: 'Playfair Display', serif;
      font-size: 64px;
      font-weight: normal;
+     
  }
  
  p {
      font-family:'Open Sans', sans-serif;
+     text-align: right;
  }
  
  ul,
@@ -170,6 +173,8 @@
      background-color: white;
      border-radius: 8px;
      margin: 12px;
+          text-align: center;
+
  }
  
  .projetos {
@@ -190,7 +195,7 @@
  .projeto a {
      display: inline-block;
      text-decoration: none;
-     background-color: #6b665477;
+     background-color: #6b6654;
      color: white;
      padding: 8px 24px;
      font-family: 'Open Sans', sans-serif;
@@ -201,8 +206,8 @@
  }
  
  footer {
-     background-color: #6b665477;
-     padding: 30px;
+     background-color: #6b6654;
+     padding: 2%;
      text-align: center;
      font-family: 'Open Sans', sans-serif;
  }
