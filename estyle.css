@@ -23,7 +23,7 @@
  }
  
  p {
-     font-family: 'Open Sans', sans-serif;
+     font-family:'Open Sans', sans-serif;
  }
  
  ul,
@@ -47,6 +47,7 @@
  header {
      background-color: white;
      padding: 32px 64px;
+     
  }
  
  main {
@@ -205,3 +206,22 @@
      text-align: center;
      font-family: 'Open Sans', sans-serif;
  }
+
+ /* Formatação pagina de impressao do saite  */
+
+@media print {}
+
+@media screen and (min-width:214px) {}
+
+/* MEDIUM DEVICES - TABLETS & DESKTOPS*/
+@media screen and (min-width: 960px) {}
+
+/* Small Device- Tablets */
+@media screen and (min-width:760px) {}
+
+/* small device smartfones */
+@media screen and (min-width: 480px) {}
+
+/* LARGE DEVICES - WIDE SCREENS*/
+
+@media screen and (min-width: 1280px) {}
