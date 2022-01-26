@@ -465,9 +465,6 @@ section .title::after {
     width: 70%;
 }
 
-
-
-
 /* projetos section styling */
 .projetos .title::after {
     content: "amostra de projetos";
@@ -505,10 +502,10 @@ section .title::after {
 }
 
 .projetos .carousel .card img {
-    height: 150px;
-    width: 150px;
+    height: auto;
+    width: 350px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 5%;
     border: 5px solid #DE4D26;
     transition: all 0.3s ease;
 }
