@@ -19,7 +19,7 @@
   ";
   
   //Emails para quem será enviado o formulário
-  $destino = "developerquirino@gmail.com";
+  $destino = "edu.3532quirino@gmail.com";
   $assunto = "Contato pelo Site Portifólio";
 
   //Este sempre deverá existir para garantir a exibição correta dos caracteres
