@@ -502,7 +502,7 @@ section .title::after {
 }
 
 .projetos .carousel .card img {
-    height: auto;
+    height: 20px;
     width: 100;
     object-fit: cover;
     border-radius: 5%;
@@ -786,8 +786,8 @@ footer span a:hover {
         width: 100%;
     }
 }
-
-@media (max-width: 500px) {
+/* midia pequena */
+@media (min-width: 500px) and (max-width: 991.98px) {
     .home .home-content .text-2 {
         font-size: 50px;
     }
