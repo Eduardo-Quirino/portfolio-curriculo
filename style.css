@@ -33,11 +33,11 @@ html {
 
 /* all similar content styling codes */
 section {
-    padding: 100px 0;
+    padding: 10px 0;
 }
 
 .max-width {
-    max-width: 1300px;
+    max-width: 130px;
     padding: 0 80px;
     margin: auto;
 }
@@ -161,10 +161,10 @@ section .title::after {
 
 .scroll-up-btn {
     position: fixed;
-    height: 45px;
-    width: 42px;
+    height: auto;
+    width: auto;
     background: #F6862A;
-    right: 30px;
+    right: outo;
     bottom: 10px;
     text-align: center;
     line-height: 45px;
