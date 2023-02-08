@@ -50,7 +50,7 @@ $(document).ready(function(){
 
     // script de carrossel de coruja
     $('.carousel').owlCarousel({
-        margin: 20,
+        margin: 2,
         loop: true,
         autoplay: true,
         autoplayTimeOut: 2000,
