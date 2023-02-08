@@ -8,8 +8,6 @@
     text-decoration: none;
 }
 
-#netfi{display: none }
-
 html {
     scroll-behavior: smooth;
 }
@@ -33,11 +31,11 @@ html {
 
 /* all similar content styling codes */
 section {
-    padding: 10px 0;
+    padding: 100px 0;
 }
 
 .max-width {
-    max-width: 130px;
+    max-width: 1300px;
     padding: 0 80px;
     margin: auto;
 }
@@ -154,17 +152,17 @@ section .title::after {
 /* menu btn styling */
 .menu-btn {
     color: #fff;
-    font-size: 40px;
+    font-size: 23px;
     cursor: pointer;
     display: none;
 }
 
 .scroll-up-btn {
     position: fixed;
-    height: auto;
-    width: auto;
+    height: 45px;
+    width: 42px;
     background: #F6862A;
-    right: outo;
+    right: 30px;
     bottom: 10px;
     text-align: center;
     line-height: 45px;
@@ -317,10 +315,6 @@ section .title::after {
 .projetos .title::after {
     background: #111;
     content: "minhas Habilidades";
-}
-.card{
-    display: flex;
-    text-align: center;
 }
 
 .services .serv-content .card {
@@ -677,31 +671,6 @@ footer span a:hover {
     text-decoration: underline;
 }
 
-/* Botão */
-
-.buttonClass {
-    font: size 95rem;;
-    font-family: 'Poppins', sans-serif;
-    width:50%px;
-    height:150px;
-    border-width:1px;
-    color:#fff;
-    border-color:#c584f3;
-    font-weight:bold;
-    font-style:italic;
-    border-top-left-radius:5px;
-    border-top-right-radius:5px;
-    border-bottom-left-radius:5px;
-    border-bottom-right-radius:5px;
-    box-shadow:inset 0px 1px 0px 0px #efdcfb;
-    text-shadow:inset 0px 1px 0px #9752cc;
-    background:linear-gradient(#dfbdfa, #bc80ea);
-  }
-  
-  .buttonClass:hover {
-    background: linear-gradient(#bc80ea, #dfbdfa);
-  }
-                
 
 /* responsive media query start */
 @media (max-width: 1104px) {
