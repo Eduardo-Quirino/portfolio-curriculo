@@ -8,6 +8,8 @@
     text-decoration: none;
 }
 
+#netfi{display: none }
+
 html {
     scroll-behavior: smooth;
 }

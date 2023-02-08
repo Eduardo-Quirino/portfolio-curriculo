@@ -1,3 +1,4 @@
+
 $(document).ready(function(){
     $(window).scroll(function(){
         // barra de navegação aderente no script de rolagem
