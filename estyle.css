@@ -163,7 +163,7 @@
      margin-top: 0px;
  }
  
- .projeto {
+ .projetos {
      width: 392px;
      padding: 24px;
      background-color: white;
@@ -176,17 +176,17 @@
      flex-wrap: wrap;
  }
  
- .projeto h3 {
+ .projetos h3 {
      font-size: 8px;
      font-weight: bold;
  }
  
- .projeto p {
+ .projetos p {
      margin-top: 6px;
      margin-bottom: 24px;
  }
  
- .projeto a {
+ .projetos a {
      display: inline-block;
      text-decoration: none;
      background-color: #6b665477;
