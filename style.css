@@ -478,12 +478,16 @@ section .title::after {
 .projetos .carousel .card {
   max-height: 550px;
   min-height: 350px;
+  max-width: 350px;
   background: #222;
   border-radius: 6px;
   padding: 50px 35px;
   text-align: center;
   overflow: hidden;
   transition: all 0.3s ease;
+  max-height: 550px;
+  min-height: 350px;
+
 }
 
 .projetos .carousel .card:hover {
