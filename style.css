@@ -327,19 +327,17 @@ section .title::after {
   cursor: pointer;
   transition: all 0.3s ease;
 }
-.services .serv-content .card p{
-text-align: left;
-text-transform: uppercase;
+.services .serv-content .card p {
+  text-align: left;
+  text-transform: uppercase;
 }
 
 .services .serv-content .card:hover {
   background: #de4d26;
-  
 }
 
 .services .serv-content .card .box {
   transition: all 0.3s ease;
-  
 }
 
 .services .serv-content .card:hover .box {
@@ -360,9 +358,7 @@ text-transform: uppercase;
   font-size: 25px;
   font-weight: 500;
   margin: 10px 0 7px 0;
-  
 }
-
 
 /* skills section styling */
 
@@ -480,6 +476,8 @@ text-transform: uppercase;
 }
 
 .projetos .carousel .card {
+  max-height: 550px;
+  min-height: 350px;
   background: #222;
   border-radius: 6px;
   padding: 50px 35px;
