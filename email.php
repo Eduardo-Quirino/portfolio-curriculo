@@ -14,7 +14,7 @@ $data_envio = date('d/m/Y');
 $hora_envio = date('H:i:s');
 
 //Compo E-mail
-$arquivo = { "
+$arquivo = "
   <html>
     <p><b>Nome: </b>$nome</p>
     <p><b>E-mail: </b>$email</p>
@@ -22,7 +22,7 @@ $arquivo = { "
     <p><b>Mensagem: </b>$mensagem</p>
     <p>Este e-mail foi enviado em <b>$data_envio</b> às <b>$hora_envio</b></p>
   </html>
-"};
+";
 
 //Emails para quem será enviado o formulário
 $destino = "edu.3532quirino@gmail.com";
