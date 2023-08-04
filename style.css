@@ -308,6 +308,7 @@ section .title::after {
 .projetos .title::before {
   background: #fff;
 }
+
 /*My skills*/
 .services .title::after,
 .projetos .title::after {
@@ -327,6 +328,7 @@ section .title::after {
   cursor: pointer;
   transition: all 0.3s ease;
 }
+
 .services .serv-content .card p {
   text-align: left;
   text-transform: uppercase;
