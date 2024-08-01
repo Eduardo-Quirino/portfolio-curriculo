@@ -25,7 +25,7 @@ $arquivo = "
 ";
 
 //Emails para quem será enviado o formulário
-$destino = "edu.3532quirino@gmail.com";
+$destino = "dev.quirino1218@gmail.com;
 $assunto = "Contato pelo Site Portfólio";
 
 //Este sempre deverá existir para garantir a exibição correta dos caracteres
